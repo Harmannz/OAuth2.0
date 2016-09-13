@@ -1,0 +1,9 @@
+## database files
+database_setup.pyc
+restaurantmenu.db
+
+## my temp files
+harman_*
+
+## vagrant setup files
+.vagrant/
